@@ -3,6 +3,7 @@
     margin: 0;
 }
 
+
 @font-face {
     font-family: 'inter-regular';
     src: url(static/Inter-Regular.ttf);
@@ -298,6 +299,27 @@ top: 859px;
 
 border: 0.25px solid #000000;
 border-radius: 5.04804px;
+}
+
+.sing:hover{
+    
+    border-bottom: 2px solid;
+    transform: scale(1.1);
+    transition: transform 0,5s ease-out;
+}
+
+.adao:hover{
+    
+    border-bottom: 2px solid;
+    transform: scale(1.1);
+    transition: transform 0,5s ease-out;
+}
+
+.boia:hover{
+    
+    border-bottom: 2px solid;
+    transform: scale(1.1);
+    transition: transform 0,5s ease-out;
 }
 
 .r{
